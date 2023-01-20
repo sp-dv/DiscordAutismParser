@@ -43,7 +43,7 @@ namespace DiscordAutismParser
 
             if (words.Length == 0) 
             { 
-                BadInputPrompt(); 
+                BadInputPromptx(); 
                 return; 
             }
 
@@ -65,12 +65,24 @@ namespace DiscordAutismParser
                 }
             }
 
-            BadInputPrompt();
+            BadInputPromptx();
         }
 
-        protected static void BadInputPrompt()
+        protected static void BadInputPromptx()
         {
             new NonsenseCommand().Run(null);
+        }
+
+        protected void BadInputPrompt()
+        {
+            if (UsageHint != null)
+            {
+                Console.WriteLine($"Usage: {UsageHint}");
+            }
+            else
+            {
+                BadInputPromptx();
+            }
         }
     }
 
@@ -214,7 +226,7 @@ namespace DiscordAutismParser
                 return;
             }
 
-            var bread = JsonConvert.SerializeObject(key.Public);
+            var bread = JsonConvert.SerializeObject(key);
             WindowsClipboard.SetText(bread);
             Console.WriteLine("Public key copied to clipboard.");
         }

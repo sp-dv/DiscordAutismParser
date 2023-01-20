@@ -12,6 +12,7 @@ namespace DiscordAutismParser
 
             while (true)
             {
+                Console.Write(">");
                 var input = Console.ReadLine();
                 Command.ParseAndRun(input);
             }
