@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JiQaA5LuHvvMLCCCjnlqyxDjohlieuC4H+2HZfX8hKxMn5l1iipaX6TlVCLsmR2N2Jd91+G/JpAbLp5cTvABhw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\wss\\DiscordAutismParser\\DiscordAutismParser\\DiscordAutismParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

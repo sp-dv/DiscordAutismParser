@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordAutismParser", "DiscordAutismParser\DiscordAutismParser.csproj", "{0E632EFF-3460-4D55-AF95-B59E9B019B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E632EFF-3460-4D55-AF95-B59E9B019B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E632EFF-3460-4D55-AF95-B59E9B019B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E632EFF-3460-4D55-AF95-B59E9B019B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E632EFF-3460-4D55-AF95-B59E9B019B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E95BD6-D06B-4ACB-A262-EC136D941C6A}
+	EndGlobalSection
+EndGlobal

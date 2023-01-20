@@ -1,0 +1,17 @@
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.csproj.AssemblyReference.cache
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.AssemblyInfoInputs.cache
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.AssemblyInfo.cs
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.csproj.CoreCompileInputs.cache
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\bin\Debug\net6.0\DiscordAutismParser.exe
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\bin\Debug\net6.0\DiscordAutismParser.deps.json
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\bin\Debug\net6.0\DiscordAutismParser.runtimeconfig.json
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\bin\Debug\net6.0\DiscordAutismParser.dll
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\bin\Debug\net6.0\ref\DiscordAutismParser.dll
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\bin\Debug\net6.0\DiscordAutismParser.pdb
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.dll
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\ref\DiscordAutismParser.dll
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.pdb
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.genruntimeconfig.cache
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\dev\wss\DiscordAutismParser\DiscordAutismParser\obj\Debug\net6.0\DiscordAutismParser.csproj.CopyComplete
